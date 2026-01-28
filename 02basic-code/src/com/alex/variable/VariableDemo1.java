@@ -21,7 +21,5 @@ public class VariableDemo1 {
         int a3 = 0XFA;
         System.out.println(a3);
 
-
-
     }
 }
