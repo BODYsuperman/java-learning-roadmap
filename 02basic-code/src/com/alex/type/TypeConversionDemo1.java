@@ -7,7 +7,7 @@ public class TypeConversionDemo1 {
         //on 32 bit machine int is 32bit -2^31 ~ 2^31-1
         /*
 
-        byte    8   1
+        byte    8   1 range -128 -- 127
         char	8	1
         short	16	2
         int	    32	4
