@@ -20,6 +20,5 @@ public class VariableDemo1 {
         //hexadecimal starts with 0X 0x
         int a3 = 0XFA;
         System.out.println(a3);
-
     }
 }
