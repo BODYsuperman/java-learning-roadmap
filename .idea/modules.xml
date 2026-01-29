@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01hello-code/01hello-code.iml" filepath="$PROJECT_DIR$/01hello-code/01hello-code.iml" />
       <module fileurl="file://$PROJECT_DIR$/02basic-code/02basic-code.iml" filepath="$PROJECT_DIR$/02basic-code/02basic-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-flow-control-code/03-flow-control-code.iml" filepath="$PROJECT_DIR$/03-flow-control-code/03-flow-control-code.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaLearningRoadmap.iml" filepath="$PROJECT_DIR$/JavaLearningRoadmap.iml" />
     </modules>
   </component>
